@@ -1,0 +1,33 @@
+.Logobar {
+	background-color: #333333;
+	width: 100vw;
+	height: 10vh;
+	display: flex;
+	flex-direction: row;
+	padding-left: 20px;
+	padding-right: 20px;
+	align-items: center;
+	position: fixed;
+  	top: 0;
+  	width: 100%;
+}
+
+.Image {
+	width: 50px;
+}
+
+.LogobarItemContainer {
+	display: flex;
+	flex-direction: row;
+	margin-left: auto;
+}
+
+.LogobarItem {
+	text-align: center;
+	margin-right: 50px;
+	cursor: pointer;
+}
+
+.Logo {
+	cursor: pointer;
+}

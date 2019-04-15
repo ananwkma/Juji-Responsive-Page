@@ -1,0 +1,12 @@
+*** Major ***
+
+[x] App falls apart below certain widths (cannot input in preview)
+[x] Inconsistent switch between mobile and web versions for Nav and content
+[ ] Resizing screen lags the whole app --> throttle?
+
+
+*** Minor ***
+
+[x] Pointer inconsistent in Deploy "Get Started" button coming from under
+[ ] Green and Red dots in Results are misaligned at smaller sizes, text clips at certain size
+[ ] Preview text padding

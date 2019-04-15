@@ -1,0 +1,23 @@
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.AppContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 800px) and (orientation:landscape) {
+	.App {
+	  display: flex;
+	  flex-direction: row;
+	}
+
+	.AppContainer {
+	  display: flex;
+	  flex-direction: column;
+	}
+}
+
