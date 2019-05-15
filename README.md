@@ -2,7 +2,7 @@
 
 ## Description
 
-Fixed Responsiveness Issue with Juji's Web App. Written in React, SCSS, CSS with a Redux skeleton.
+Fixed responsiveness issue with Juji's web app. Written in React, SCSS, CSS with a Redux skeleton.
 
 ## Run this Project
 
